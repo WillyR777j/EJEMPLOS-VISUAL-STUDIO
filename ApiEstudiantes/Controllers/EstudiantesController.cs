@@ -31,9 +31,9 @@ namespace ApiEstudiantes.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Estudiante>> GetEstudiante(int id)
         {
-            var estudiantes = await _context.Estudiante.FindAsync(id);
+            var estudiante = await _context.Estudiante.FindAsync(id);
 
-            if (estudiantes == null)
+            if (estudiante == null)
                 return NotFound();
 
             return estudiante;
