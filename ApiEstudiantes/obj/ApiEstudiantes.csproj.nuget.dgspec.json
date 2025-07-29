@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willy Rodriguez\\Source\\Repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj": {}
+    "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willy Rodriguez\\Source\\Repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj": {
+    "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willy Rodriguez\\Source\\Repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj",
+        "projectUniqueName": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj",
         "projectName": "ApiEstudiantes",
-        "projectPath": "C:\\Users\\Willy Rodriguez\\Source\\Repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj",
+        "projectPath": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj",
         "packagesPath": "C:\\Users\\Willy Rodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willy Rodriguez\\Source\\Repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\obj\\",
+        "outputPath": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
