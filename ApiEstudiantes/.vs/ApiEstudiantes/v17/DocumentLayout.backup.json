@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
               "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Controllers\\EstudiantesController.cs",
               "RelativeToolTip": "Controllers\\EstudiantesController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAEwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T21:32:03.132Z",
               "EditorCaption": ""
@@ -97,9 +97,10 @@
               "RelativeDocumentMoniker": "Entidades\\Estudiante.cs",
               "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Entidades\\Estudiante.cs",
               "RelativeToolTip": "Entidades\\Estudiante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:19:58.54Z"
+              "WhenOpened": "2025-07-05T14:19:58.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
