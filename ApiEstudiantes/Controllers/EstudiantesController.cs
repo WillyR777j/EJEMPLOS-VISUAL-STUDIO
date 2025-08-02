@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
-//Estamos mostrando ejemplo de git, github y gitlab a estudiantes de algoritmos
+
 namespace ApiEstudiantes.Controllers
 {
     [Route("api/estudiantes")]
