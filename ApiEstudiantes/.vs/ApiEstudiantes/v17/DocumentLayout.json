@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\entidades\\configuraciones\\estudianteconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:entidades\\configuraciones\\estudianteconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\servicios\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,14 +51,6 @@
       "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:migrations\\20250705160336_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|c:\\users\\willy rodriguez\\source\\repos\\ejemplos-visual-studio\\apiestudiantes\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02A3C595-EFDA-49BF-BA2A-868AA1210BE4}|ApiEstudiantes.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,144 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "EstudianteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Entidades\\Configuraciones\\EstudianteConfig.cs",
+              "RelativeDocumentMoniker": "Entidades\\Configuraciones\\EstudianteConfig.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Entidades\\Configuraciones\\EstudianteConfig.cs",
+              "RelativeToolTip": "Entidades\\Configuraciones\\EstudianteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:22:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EstudiantesController.cs",
               "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Controllers\\EstudiantesController.cs",
               "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
               "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Controllers\\EstudiantesController.cs",
               "RelativeToolTip": "Controllers\\EstudiantesController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T21:32:03.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEstudianteService.cs",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\IEstudianteService.cs",
-              "RelativeDocumentMoniker": "Servicios\\IEstudianteService.cs",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\IEstudianteService.cs",
-              "RelativeToolTip": "Servicios\\IEstudianteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T21:50:09.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Entidades\\Estudiante.cs",
               "RelativeDocumentMoniker": "Entidades\\Estudiante.cs",
               "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Entidades\\Estudiante.cs",
               "RelativeToolTip": "Entidades\\Estudiante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:19:58.54Z"
+              "WhenOpened": "2025-07-05T14:19:58.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EstudianteService.cs",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\EstudianteService.cs",
-              "RelativeDocumentMoniker": "Servicios\\EstudianteService.cs",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\EstudianteService.cs",
-              "RelativeToolTip": "Servicios\\EstudianteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T21:52:48.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "Servicios\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "Servicios\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T22:22:44.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T15:24:11.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EstudianteCreacionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\DTOs\\EstudianteCreacionDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\EstudianteCreacionDTO.cs",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\DTOs\\EstudianteCreacionDTO.cs",
-              "RelativeToolTip": "DTOs\\EstudianteCreacionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T21:27:48.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250705175612_Migracion4.cs",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705175612_Migracion4.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250705175612_Migracion4.cs",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705175612_Migracion4.cs",
-              "RelativeToolTip": "Migrations\\20250705175612_Migracion4.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T17:56:12.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250705174336_Migracion2.cs",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705174336_Migracion2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250705174336_Migracion2.cs",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705174336_Migracion2.cs",
-              "RelativeToolTip": "Migrations\\20250705174336_Migracion2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T17:43:36.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250705160336_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705160336_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250705160336_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705160336_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250705160336_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:03:38.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-05T15:22:39.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -207,11 +117,129 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-05T15:21:29.976Z"
+              "WhenOpened": "2025-07-05T15:21:29.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T15:22:39.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\IEstudianteService.cs",
+              "RelativeDocumentMoniker": "Servicios\\IEstudianteService.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\IEstudianteService.cs",
+              "RelativeToolTip": "Servicios\\IEstudianteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:50:09.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\EstudianteService.cs",
+              "RelativeDocumentMoniker": "Servicios\\EstudianteService.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\EstudianteService.cs",
+              "RelativeToolTip": "Servicios\\EstudianteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:52:48.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Servicios\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Servicios\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Servicios\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:22:44.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:24:11.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstudianteCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\DTOs\\EstudianteCreacionDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\EstudianteCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\DTOs\\EstudianteCreacionDTO.cs",
+              "RelativeToolTip": "DTOs\\EstudianteCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:27:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250705175612_Migracion4.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705175612_Migracion4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250705175612_Migracion4.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705175612_Migracion4.cs",
+              "RelativeToolTip": "Migrations\\20250705175612_Migracion4.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAABBwCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:56:12.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250705174336_Migracion2.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705174336_Migracion2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250705174336_Migracion2.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705174336_Migracion2.cs",
+              "RelativeToolTip": "Migrations\\20250705174336_Migracion2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:43:36.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "20250705160336_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705160336_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250705160336_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Migrations\\20250705160336_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250705160336_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:03:38.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -219,7 +247,8 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:04:17.427Z"
+              "WhenOpened": "2025-07-05T14:04:17.427Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3+2tqhd6wn4=",
+  "dgSpecHash": "3+ntU4aE3x4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Willy Rodriguez\\source\\repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj",
+  "projectFilePath": "C:\\Users\\Willy Rodriguez\\Source\\Repos\\EJEMPLOS-VISUAL-STUDIO\\ApiEstudiantes\\ApiEstudiantes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willy Rodriguez\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Willy Rodriguez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
