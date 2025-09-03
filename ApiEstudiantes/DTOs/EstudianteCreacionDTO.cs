@@ -1,8 +1,7 @@
 ﻿namespace ApiEstudiantes.DTOs
 {
     public class EstudianteCreacionDTO
-    {
-        //Prueba
+    {       
         public int Id { get; set; }
         public string Matricula { get; set; }
         public string Nombre { get; set; }
